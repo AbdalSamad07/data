@@ -1,4 +1,4 @@
-﻿ElectricCar,Fed Tax Credit,State Rebate (exhausted),Energy Co Rebate,Current Offers,Range,kWh,MPG; M/kWh,$/kWh,$/gallon // $/charge,kw/mile,fuel$/mile,maint$/mile,After Rebate Cost,Less Current car sale,Energy Cost $/kWh,Miles Drive/Year,maint+Fuel/mile,Delta$/Mile,Break even vs current(miles)
+﻿ElectricCar,Fed Tax Credit,State Rebate (exhausted),Energy Co Rebate,Current Offers,Range,kWh,MPG; M/kWh,$/kWh,$/gallon // $/charge,kw/mile,fuel$/mile,maint$/mile,After Rebate Cost,Less Current car sale,energyCost,Miles Drive/Year,maint+Fuel/mile,Delta$/Mile,Break even vs current(miles)
 MachE CA RTE1,"$7,500",$0,$0,$0,344,88,3.9,$0.36,,,,,,,$0.48,,,,
 Model Y 7-seat LR,"$7,500",$0,$0,$0,326,80,4.1,$0.37,,,,,,,$0.41,,,,
 Kia Niro,"$7,500",$0,$0,$0,285,64,4.5,$0.38,,,,,,,$0.39,,,,
