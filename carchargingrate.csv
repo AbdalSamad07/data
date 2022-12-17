@@ -1,4 +1,4 @@
-﻿Cars,Fed Tax Credit,State Rebate (exhausted),Energy Co Rebate,Current Offers,Range,kWh,MPG; M/kWh,$/kWh,$/gallon // $/charge,kw/mile,fuel$/mile,maint$/mile,After Rebate Cost,Less Current car sale,energyCost,Miles Drive/Year,maint+Fuel/mile,Delta$/Mile,Break even vs current(miles)
+﻿cars,Fed Tax Credit,State Rebate (exhausted),Energy Co Rebate,Current Offers,Range,kWh,MPG; M/kWh,$/kWh,$/gallon // $/charge,kw/mile,fuel$/mile,maint$/mile,After Rebate Cost,Less Current car sale,energyCost,Miles Drive/Year,maint+Fuel/mile,Delta$/Mile,Break even vs current(miles)
 MacheCARTE,"$7,500",$0,$0,$0,344,88,3.9,$0.36,,,,,,,0.48,,,,
 ModelYLR,"$7,500",$0,$0,$0,326,80,4.1,$0.37,,,,,,,0.41,,,,
 KiaNiro,"$7,500",$0,$0,$0,285,64,4.5,$0.38,,,,,,,0.39,,,,
